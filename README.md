@@ -24,4 +24,4 @@ Execute o código e a saída será a lista de palavras encontradas no texto, jun
 
 ## Aviso
 
-Este código é um exemplo simplificado para realizar uma análise básica de frequência de palavras com base na Lei de Zipf. Para análises mais complexas e precisas, considere utilizar bibliotecas e técnicas adicionais, levando em conta o pré-processamento de texto, remoção de stopwords, análise de n-gramas, entre outros.
+Este código é um exemplo simplificado para realizar uma análise básica de frequência de palavras com base na Lei de Zipf. 
